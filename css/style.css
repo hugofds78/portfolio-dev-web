@@ -1,4 +1,11 @@
-h1  {
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
   color: #760a0a;
   font-size: 24px;
 }
